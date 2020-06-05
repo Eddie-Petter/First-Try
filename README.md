@@ -1,2 +1,2 @@
-# First-Try
-This is my first 
+# First-Tryg
+This is my first time using Github
